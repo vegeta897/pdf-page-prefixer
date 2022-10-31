@@ -1,6 +1,6 @@
 {
   "name": "pdf-page-prefixer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Rename all PDF files in a directory with a prefix of the page count",
   "main": "index.js",
   "bin": {

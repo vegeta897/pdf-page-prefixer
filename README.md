@@ -5,7 +5,7 @@ Rename all PDF files in a directory (and all sub-directories) with a prefix of t
 ## Install
 
 ```bash
-npm i g @vegeta897/pdf-page-prefixer
+npm i g pdf-page-prefixer
 ```
 
 ## Run

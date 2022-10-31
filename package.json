@@ -1,0 +1,27 @@
+{
+  "name": "pdf-page-prefixer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "pdfpageprefix": "./bin/pdfpager.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vegeta897/pdf-page-prefixer.git"
+  },
+  "author": "Devin Spikowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vegeta897/pdf-page-prefixer/issues"
+  },
+  "homepage": "https://github.com/vegeta897/pdf-page-prefixer#readme",
+  "dependencies": {
+    "get-all-files": "^4.1.0",
+    "pdf-page-counter": "^1.0.3"
+  },
+  "preferGlobal": true
+}
